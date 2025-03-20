@@ -39,9 +39,9 @@ Before running the Task Management API, ensure you have the following installed 
 
 4. **Due Dates**
    - Set due dates for tasks.
-   - Notify users of upcoming or overdue tasks (via email or in-app notifications).
+   - ~~Notify users of upcoming or overdue tasks (via email or in-app notifications).~~
 
-5. **Assign Tasks**
+5. ~~**Assign Tasks**~~
    - Assign tasks to specific users or teams.
    - Allow reassigning tasks.
 
